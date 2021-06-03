@@ -1,0 +1,39 @@
+h1{
+     color:aqua;
+     text-align: center;
+     background-color: brown;
+
+}
+#my_footer{
+    color:white;
+    text-align: center;
+    background-color: brown;
+}
+#my_list{
+    font-style: italic;
+   /* list-style-type: circle;*/
+    list-style-position: inside;
+}
+#my_list a{
+    text-decoration: coral;
+    color: brown;
+
+}
+#my_list a:hover{
+    color:cyan;
+
+}
+.my_form label{
+    display:inline-block;
+
+    font-weight: bold;
+    padding: 5px;
+
+}
+.my_form input{
+    width: 60%;
+    font-weight: bold;
+    height: 20px;
+    border-style: solid;
+    
+}
